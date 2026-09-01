@@ -1,0 +1,6 @@
+{
+  "name": "Notes",
+  "description": "Apple iOS style Notes application featuring authentic Cupertino grouped styling, SF Pro typography hierarchy, folders, pinned notes, rich formatting, interactive checklists, search, grid/list view, and trash recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
